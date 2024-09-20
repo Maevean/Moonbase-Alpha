@@ -1,0 +1,11 @@
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\obj\Debug\Moonbase Alpha I.csproj.AssemblyReference.cache
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\obj\Debug\Moonbase Alpha I.csproj.SuggestedBindingRedirects.cache
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\obj\Debug\Moonbase_Alpha_I.Properties.Resources.resources
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\obj\Debug\Moonbase Alpha I.csproj.GenerateResource.cache
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\obj\Debug\Moonbase Alpha I.csproj.CoreCompileInputs.cache
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\bin\Debug\Moonbase Alpha I.exe.config
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\bin\Debug\Moonbase Alpha I.exe
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\bin\Debug\Moonbase Alpha I.pdb
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\obj\Debug\Moonbase Alpha I.exe
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\obj\Debug\Moonbase Alpha I.pdb
+C:\Users\jessm\Pictures\♥ School\CSC202\Moonbase Alpha I\Moonbase Alpha I\obj\Debug\Moonbase_Alpha_I.FormMain.resources
